@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Foundry | Modern American Kitchen]]></title>
+        <description><![CDATA[The Foundry | Modern American Kitchen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Feb 2016 21:31:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf88aeaf-4352-4996-a639-91f6d5160bb3.png">]]></description>
+            <link>undefined2922c453-10aa-4bd4-8615-ed5e0c132e9b/index.html</link>
+            <guid isPermaLink="false">2922c453-10aa-4bd4-8615-ed5e0c132e9b</guid>
+            <pubDate>Sun, 28 Feb 2016 21:29:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
