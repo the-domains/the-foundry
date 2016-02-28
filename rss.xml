@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Foundry | Modern American Kitchen]]></title>
         <description><![CDATA[The Foundry | Modern American Kitchen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-foundry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 21:31:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 21:33:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-foundry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5959cf79-ff53-48c3-8193-b52cc5093355.jpg">]]></description>
+            <link>https://thegrid.ai/the-foundry/de27bcc5-4318-4250-81b3-fe804e37e940/index.html</link>
+            <guid isPermaLink="false">de27bcc5-4318-4250-81b3-fe804e37e940</guid>
+            <pubDate>Sun, 28 Feb 2016 21:33:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf88aeaf-4352-4996-a639-91f6d5160bb3.png">]]></description>
-            <link>undefined2922c453-10aa-4bd4-8615-ed5e0c132e9b/index.html</link>
+            <link>https://thegrid.ai/the-foundry/2922c453-10aa-4bd4-8615-ed5e0c132e9b/index.html</link>
             <guid isPermaLink="false">2922c453-10aa-4bd4-8615-ed5e0c132e9b</guid>
             <pubDate>Sun, 28 Feb 2016 21:29:56 GMT</pubDate>
         </item>
